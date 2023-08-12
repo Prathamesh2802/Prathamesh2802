@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-patil-901b65236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-patil-901b65236/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prathamesh-patil-901b65236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-patil-901b65236/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pinupatil820?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pinupatil820?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/prathamesh2802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prathamesh2802/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@prathamesh393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pinupatil820" height="30" width="40" /></a>
