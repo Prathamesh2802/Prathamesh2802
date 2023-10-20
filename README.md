@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[Email](pinupatil820@gmail.com)**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P4MYUigsvKUPdUuARGQIb0kQJ40CT8Rk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
