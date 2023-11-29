@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JS, React**
 
-- 📫 How to reach me **[Email](pinupatil820@gmail.com)**
+- 📫 How to reach me **[Email](mailto:pinupatil820@gmail.com)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P4MYUigsvKUPdUuARGQIb0kQJ40CT8Rk/view?usp=sharing)
 
